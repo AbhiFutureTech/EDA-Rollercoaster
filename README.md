@@ -10,3 +10,10 @@ The project started with data cleaning, which involved handling missing values, 
 The project also included asking and answering questions about the data, such as which roller coaster has the highest drop height, which manufacturer produces the fastest roller coasters, and which countries have the most roller coasters.
 
 Overall, this project serves as a valuable resource for anyone interested in learning about EDA and data visualization. The roller coaster dataset provides an interesting and engaging subject for practicing data analysis techniques, and the Python libraries used in this project are widely used in data science and provide a solid foundation for anyone interested in pursuing a career in data analysis.
+
+## Project Snapshots
+
+
+![Figure_1](https://github.com/patilabhi20/EDA_project/assets/157373320/14169e2a-b0a6-4993-916d-7042cf38d6d5)
+![Figure_2](https://github.com/patilabhi20/gesture-controlled-robotic-hand-by-using-CV/assets/157373320/edde8915-e533-453d-9b86-9fb3b3abd58b)
+![Figure_4](https://github.com/patilabhi20/gesture-controlled-robotic-hand-by-using-CV/assets/157373320/f53c48a4-e888-4a58-a383-5657f119e6fa)
