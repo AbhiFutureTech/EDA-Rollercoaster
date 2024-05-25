@@ -11,7 +11,7 @@ The project also included asking and answering questions about the data, such as
 
 Overall, this project serves as a valuable resource for anyone interested in learning about EDA and data visualization. The roller coaster dataset provides an interesting and engaging subject for practicing data analysis techniques, and the Python libraries used in this project are widely used in data science and provide a solid foundation for anyone interested in pursuing a career in data analysis.
 
-## Project Snapshots
+# Project Snapshots
 
 
 ![Figure_1](https://github.com/patilabhi20/EDA_project/assets/157373320/14169e2a-b0a6-4993-916d-7042cf38d6d5)
